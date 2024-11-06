@@ -62,6 +62,3 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MyoHsat27&theme=tokyonight-duo&show_icons=true&locale=en&layout=compact&line_height=0" alt="GitHub Streak" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
