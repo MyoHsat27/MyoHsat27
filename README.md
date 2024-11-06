@@ -33,8 +33,9 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<div align="center">
-<span align="center">Reach me out on</h2>
+<h2 align="center">Reach me out on</h2>
+
+<p align="center">
 <a href="mailto: hsatmyo@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:hsatmyo@gmail.com"/>
 </a>
@@ -44,9 +45,9 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
  <a href="https://www.facebook.com/myo.hsat.16">
  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&link=https://www.facebook.com/myo.hsat.16"/>
 </a>
-</div>
+</p>
 
-<!--
+
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
@@ -54,14 +55,13 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MyoHsat27&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MyoHsat27&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MyoHsat27&theme=tokyonight-duo&show_icons=true&locale=en&layout=compact&line_height=0" alt="GitHub Streak" />
 </p> 
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> -->
+</p> 
