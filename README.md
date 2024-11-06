@@ -47,6 +47,8 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 </a>
 </p>
 
+<br>
+<br>
 
 <h2 align="center">
   My Github Stats
