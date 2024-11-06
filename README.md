@@ -62,8 +62,8 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MyoHsat27&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MyoHsat27&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MyoHsat27&show_icons=true&theme=tokyonight-duo&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MyoHsat27&theme=tokyonight-duo">
 </p>
 
 <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MyoHsat27&theme=tokyonight-duo&show_icons=true&locale=en&layout=compact&line_height=0" alt="GitHub Streak" />
