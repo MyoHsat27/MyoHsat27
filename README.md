@@ -31,7 +31,7 @@
 </p>
 
 <div align="center">
-<h2 align="center">Reach me out </h2>
+<h2 align="center">Reach me out on</h2>
 <a href="mailto: hsatmyo@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:hsatmyo@gmail.com"/>
 </a>
