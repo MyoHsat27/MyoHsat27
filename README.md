@@ -66,6 +66,6 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MyoHsat27&theme=tokyonight">
 </p>
 
-<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MyoHsat27&theme=tokyonight-duo&show_icons=true&locale=en&layout=compact&line_height=0" alt="GitHub Streak" />
+<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MyoHsat27&theme=tokyonight&show_icons=true&locale=en&layout=compact&line_height=0" alt="GitHub Streak" />
 </p> 
 
