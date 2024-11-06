@@ -12,6 +12,7 @@
 I’m a tech enthusiast always exploring the next big thing 🚀. I love diving into new technologies 🔍 and learning as much as I can 📚. Whether it’s coding 💻 or experimenting with new tools, I’m all about pushing boundaries and having fun with it. Let’s create something amazing!
 </p>  
 
+<br>
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
@@ -33,6 +34,7 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+<br>
 <h2 align="center">Reach me out on</h2>
 
 <p align="center">
@@ -47,7 +49,6 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 </a>
 </p>
 
-<br>
 <br>
 
 <h2 align="center">
