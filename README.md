@@ -49,7 +49,7 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My Github Stats
 </h2>
  
 <br>
