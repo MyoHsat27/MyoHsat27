@@ -22,29 +22,36 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <h2 align="center">Technology Stack</h2>
 
 <p align="center">
-<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel"/>
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+
+
+ 
 </p>
 
 <h2 align="center">Reach me out on</h2>
