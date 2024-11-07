@@ -41,7 +41,7 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
