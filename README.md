@@ -38,7 +38,7 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
- <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"/>
@@ -49,8 +49,8 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </p>
@@ -58,8 +58,8 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <h2 align="center">Reach me out on</h2>
 
 <p align="center">
-<a href="mailto: hsatmyo@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:hsatmyo@gmail.com"/>
+<a href="mailto: myohsatnanda@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:myohsatnanda@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/myo-hsat-nanda-242108289/">
  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/myo-hsat-nanda-242108289/"/>
