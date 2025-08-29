@@ -7,13 +7,6 @@
 </p>
 
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/MyoHsat27/MyoHsat27"/> 
- <img src="https://badges.pufler.dev/repos/MyoHsat27"/>
- <img src="https://badges.pufler.dev/commits/monthly/MyoHsat27" />
-
-</p>
 
  <p align="center">
 I’m a tech enthusiast always exploring the next big thing 🚀. I love diving into new technologies 🔍 and learning as much as I can 📚.
