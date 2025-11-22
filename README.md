@@ -1,12 +1,5 @@
 
 
-<p align="center">
- 
- <img src="https://github.com/MyoHsat27/MyoHsat27/blob/main/images/bg2.webp"/> 
-
-</p>
-
-
 
  <p align="center">
 I’m a tech enthusiast always exploring the next big thing 🚀. I love diving into new technologies 🔍 and learning as much as I can 📚.
