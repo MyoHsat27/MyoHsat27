@@ -55,18 +55,6 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 </a>
 </p>
 
-
-<h2 align="center">
-  My Github Stats
-</h2>
- 
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MyoHsat27&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MyoHsat27&theme=tokyonight">
-</p>
-
 <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MyoHsat27&theme=tokyonight&show_icons=true&locale=en&layout=compact&line_height=0" alt="GitHub Streak" />
 </p> 
 
