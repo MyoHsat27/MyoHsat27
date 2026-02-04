@@ -54,7 +54,3 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&link=https://www.facebook.com/myo.hsat.16"/>
 </a>
 </p>
-
-<p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com?user=MyoHsat27&theme=tokyonight&show_icons=true&locale=en&layout=compact&line_height=0" alt="GitHub Streak" />
-</p> 
-
