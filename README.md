@@ -29,15 +29,11 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </p>
 
