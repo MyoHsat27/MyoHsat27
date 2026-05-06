@@ -20,6 +20,7 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"/>
