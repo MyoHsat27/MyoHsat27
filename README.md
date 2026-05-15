@@ -36,7 +36,4 @@ I’m a tech enthusiast always exploring the next big thing 🚀. I love diving 
 <a href="https://www.linkedin.com/in/myo-hsat-nanda-242108289/">
  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/myo-hsat-nanda-242108289/"/>
 </a>
- <a href="https://www.facebook.com/myo.hsat.16">
- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&link=https://www.facebook.com/myo.hsat.16"/>
-</a>
 </p>
